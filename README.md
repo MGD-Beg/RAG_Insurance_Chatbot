@@ -46,7 +46,7 @@
  ### 1. Clone the repository
  
  ```bash
- git clone https://github.com/yourname/local-rag-chatbot.git
+ git clone https://github.com/MGD-Beg/RAG_Insurance_Chatbot.git
  cd local-rag-chatbot
  ```
  
